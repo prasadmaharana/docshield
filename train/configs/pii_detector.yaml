@@ -1,0 +1,14 @@
+path: D:/Prasad Next 24 months Plan/Projects/docshield/data/dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 8
+names:
+- PERSON_NAME
+- SSN
+- ACCOUNT_NUMBER
+- ADDRESS
+- PHONE
+- EMAIL
+- DATE_OF_BIRTH
+- SIGNATURE
